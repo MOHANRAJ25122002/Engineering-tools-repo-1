@@ -4,7 +4,7 @@ secret = random.randint(1, 20)
 tries = 0
 guess = 0
 
-print("Welcome to the Number Guessing Game!")
+print("Welcome to my Number Guessing Game!")
 print("I have chosen a number between 1 and 20.")
 
 while guess != secret:
